@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TP1_Android</string>
+
+    <string-array name="PizzaTailles">
+        <item>Mini</item>
+        <item>Moyenne</item>
+        <item>Maxi</item>
+    </string-array>
+
+    <string-array name="Ingredients">
+        <item>Fromage</item>
+        <item>Champignon</item>
+        <item>Crevettes</item>
+        <item>Thom</item>
+        <item>Marguerite</item>
+    </string-array>
+</resources>
